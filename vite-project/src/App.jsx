@@ -7,6 +7,10 @@ function App() {
 
   return (
      <>
+     <nav><ul>
+      <li>Home</li>
+      <li>About</li>
+      <li>Contact</li></ul></nav>
      <h1>My 2 Apps</h1>
      </>
   )
