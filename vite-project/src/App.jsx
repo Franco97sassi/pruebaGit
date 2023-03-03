@@ -9,7 +9,7 @@ function App() {
   return (
      <>
      <Navbar/>
-     <h1>My 2 Apps</h1>
+     <h1>My 2 Apps!</h1>
      </>
   )
 }
